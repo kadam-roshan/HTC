@@ -8,7 +8,7 @@ Development setup
 ```
 * Open Postman.
 * Select method type POST.
-* Paste the request data:
+* Paste the request data and send request:
 ```json
   {
   "url": "http://demo.guru99.com/test/newtours/login.php",
