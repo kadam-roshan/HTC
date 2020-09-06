@@ -3,6 +3,9 @@ Development setup
 
 * Run remote web driver [chromedriver.exe].
 * Run task gradle bootRun from terminal to start server.
+```json
+  gradle bootRun
+```
 * Open Postman.
 * Select method type POST.
 * Post belowed request data:
