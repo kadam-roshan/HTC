@@ -1,11 +1,12 @@
 # HTC
 Development setup
 
-*.Run Remote web driver [chromeDriver.exe].
-*.Run task gradle bootRun from terminal to start server.
-*.Open Postman.
-*.Select method type POST.
-*.Post belowed request data:
+* Run Remote web driver [chromeDriver.exe].
+* Run task gradle bootRun from terminal to start server.
+* Open Postman.
+* Select method type POST.
+* Post belowed request data:
+
   {
   "url": "http://demo.guru99.com/test/newtours/login.php",
   "testSteps": [
