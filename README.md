@@ -6,7 +6,7 @@ Development setup
 * Open Postman.
 * Select method type POST.
 * Post belowed request data:
-
+```json
   {
   "url": "http://demo.guru99.com/test/newtours/login.php",
   "testSteps": [
@@ -217,3 +217,4 @@ Development setup
     }
   ]
 }
+```
